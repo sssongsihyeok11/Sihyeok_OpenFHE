@@ -1,4 +1,4 @@
-# Sihyeok_Crypto
+# Sihyeok_OpenFHE
 Implement Functions Using OpenFHE
 
 Convolution.cpp : Implement convolution using multiplexing (Reference : Low-Complexity Deep Convolutional Neural Networks on Fully
